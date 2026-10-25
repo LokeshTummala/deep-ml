@@ -1,5 +1,4 @@
 import numpy as np
-
 def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     """
     Transpose a 2D matrix by swapping rows and columns.
@@ -12,4 +11,4 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     """
     # Your code here
     a = np.array(a)
-    return a.T.tolist()    
+    return a.T.tolist()
