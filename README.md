@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 37 problems · 0 labs · 11 math
+**49** solved · 38 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-27 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-27 | [solution](problems/0329-matrix-rank) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-28 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-28 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-10-28 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-10-27 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-27 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
