@@ -12,4 +12,4 @@ def cosine_similarity(v1, v2):
 	# Implement your code here
 	v1 = np.array(v1)
 	v2 = np.array(v2)
-	return (np.dot(v1,v2))/(np.linalg.norm(v1,ord = 2)*np.linalg.norm(v2,ord=2))
+	return np.dot(v1,v2)/(np.linalg.norm(v1,ord=2)*np.linalg.norm(v2))
